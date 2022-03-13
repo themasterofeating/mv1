@@ -11,5 +11,6 @@ public class mv1 {
         System.out.println("hot3");
         System.out.println("hot3");
         System.out.println("hot5");
+        System.out.println("hot6");
     }
 }
